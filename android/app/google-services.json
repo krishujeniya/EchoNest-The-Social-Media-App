@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240282659615",
+    "project_id": "echonest-f282b",
+    "storage_bucket": "echonest-f282b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240282659615:android:1ad025aec72cf1a325de2a",
+        "android_client_info": {
+          "package_name": "com.example.echonest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JSGWkDBd58wkMN4Y1nFHpkVIYQtI01g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
