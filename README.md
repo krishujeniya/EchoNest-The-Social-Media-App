@@ -2,14 +2,23 @@
 
 
 
+Here's a polished and comprehensive README for your project, **COMUNE-The-Chatting-App**:
 
+---
+
+# COMUNE - The Chatting App
+
+![GitHub repo size](https://img.shields.io/github/repo-size/krishujeniya/EchoNest-The-Social-Media-App)
+![GitHub contributors](https://img.shields.io/github/contributors/krishujeniya/EchoNest-The-Social-Media-App)
+![GitHub stars](https://img.shields.io/github/stars/krishujeniya/EchoNest-The-Social-Media-App?style=social)
+![GitHub forks](https://img.shields.io/github/forks/krishujeniya/EchoNest-The-Social-Media-App?style=social)
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/krishujeniya/EchoNest-The-Social-Media-App">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/iw.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">EchoNest - The Social Media App</h3>
@@ -72,10 +81,13 @@ EchoNest is a feature-rich social media application designed to help users conne
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
 
-* [![Dart][Dart.js]][Dart-url]
-* [![Flutter][Flutter.js]][Flutter-url]
+## Built With
+
+- [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+- [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
