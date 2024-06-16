@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/krishujeniya/EchoNest-The-Social-Media-App">
-    <img src="assets/iw.png" alt="Logo" width="72px">
+    <img src="assets/iw.png" alt="Logo" width="200px">
   </a>
 
   <h3 align="center">EchoNest - The Social Media App</h3>
