@@ -48,11 +48,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -71,7 +67,6 @@ EchoNest is a feature-rich social media application designed to help users conne
 - **Real-time Notifications**
 - **Search Functionality**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Built With
@@ -81,7 +76,6 @@ EchoNest is a feature-rich social media application designed to help users conne
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
