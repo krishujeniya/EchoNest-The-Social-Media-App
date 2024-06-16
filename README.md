@@ -2,12 +2,6 @@
 
 
 
-Here's a polished and comprehensive README for your project, **COMUNE-The-Chatting-App**:
-
----
-
-# COMUNE - The Chatting App
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/krishujeniya/EchoNest-The-Social-Media-App)
 ![GitHub contributors](https://img.shields.io/github/contributors/krishujeniya/EchoNest-The-Social-Media-App)
 ![GitHub stars](https://img.shields.io/github/stars/krishujeniya/EchoNest-The-Social-Media-App?style=social)
@@ -18,7 +12,7 @@ Here's a polished and comprehensive README for your project, **COMUNE-The-Chatti
 <br />
 <div align="center">
   <a href="https://github.com/krishujeniya/EchoNest-The-Social-Media-App">
-    <img src="assets/iw.png" alt="Logo" width="80" height="80">
+    <img src="assets/iw.png" alt="Logo">
   </a>
 
   <h3 align="center">EchoNest - The Social Media App</h3>
