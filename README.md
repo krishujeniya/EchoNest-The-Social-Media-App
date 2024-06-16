@@ -103,9 +103,9 @@ To get a local copy up and running, follow these steps.
    flutter run
    ```
 4. Install App
-   
+```
 https://t.me/krishujeniya/2
-   
+   ```
 
 <!-- LICENSE -->
 ## License
