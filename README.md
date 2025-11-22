@@ -103,7 +103,7 @@ To get a local copy up and running, follow these steps.
    flutter run
    ```
 4. Install App
-   ```json
+   ```sh
    https://t.me/krishujeniya/2
    ```
 
